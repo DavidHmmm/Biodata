@@ -1,0 +1,57 @@
+print("""
+=================================================
+    KTP
+    NIK               : 6112090273820001
+    Nama              : DAVID
+    Tempat/Tgl Lahir  : PONTIANAK, 02-05-2002
+    Jenis Kelamin     : LAKI-LAKI      Gol.Darah : -
+    Alamat            : KOMP PONDOK INDAH LESTARI
+        RT/RW         : 001/002
+        Kel/Desa      : PARIT BARU
+        Kecamatan     : SUNGAIRAYA
+    Agama             : BUDDHA
+    Status Perkawinan : BELUM KAWIN
+    Pekerjaan         : PELAJAR
+    Kewarganegaraan   : WNI
+    Berlaku Hingga    : SEUMUR HIDUP
+=================================================
+    SIM
+    Nama           : David
+    Alamat         : KOMP Pondok Indah Lestari
+    Tempat &       : Pontianak
+    Tanggal Lahir  : 02-05-2002
+    Tinggi         : 160cm
+    Pekerjaan      : Pelajar
+    No. KPM        : 123298410844
+    No. SIM        : 021472363482
+=================================================
+    CV
+    ~ Biodata ~
+    Nama              : DAVID
+    Tempat/Tgl Lahir  : PONTIANAK, 02-05-2002
+    Jenis Kelamin     : LAKI-LAKI    
+    Alamat            : KOMP PONDOK INDAH LESTARI
+    Agama             : BUDDHA
+    Status Perkawinan : BELUM KAWIN
+    Kewarganegaraan   : WNI
+    Email             : Dvincentd366@gmail.com
+    Telepon           : 081348239809
+    
+    ~ Pendidikan Formal ~
+    2016 - 2019         SMA Gembala Baik
+    
+    ~ Pendidikan Non-formal ~
+    2015 - 2018         Kursus Bahasa Mandarin
+    
+    ~ Organisasi/Ekstra Kurikuler ~
+    2016 - 2017         Ekstra Kurikuler Matematika
+    2017 - 2018         Ekstra Kurikuler Biologi
+    
+    ~ Pengalaman Kerja
+    Tidak Ada
+    
+    ~ Prestasi/Penghargaan
+    Tidak Ada
+=================================================
+    
+""")
